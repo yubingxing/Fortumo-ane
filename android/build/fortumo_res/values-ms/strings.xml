@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="yes">Ya</string>
+<string name="info">Maklumat</string>
+<string name="no">Tidak</string>
+<string name="ok">OK</string>
+<string name="pay">Bayar %s?</string>
+<string name="pay_vat">Bayar %s +VAT (%s%%)?</string>
+<string name="phone_bill">Kos akan dicaj kepada bil telefon telefon bimbit anda.</string>
+<string name="loading">Sila tunggu...</string>
+<string name="fetching_fail_generic">Maaf. Tidak dapat memasukkan butiran pembayaran.</string>
+
+<string name="fetching_fail_no_data">Sambungan data diperlukan untuk memasukkan butiran pembayaran.</string>
+<string name="fetching_fail_unsupported_country">Negara anda tidak disokong pada masa ini.</string>
+
+<string name="fetching_fail_unknown_simop">Maaf, tidak dapat mengesan operator telefon bimbit anda.</string>
+<string name="fetching_fail_unsupported_network">Rangkaian anda tidak disokong pada masa ini.</string>
+<string name="terms_and_conditions">Terma-terma dan syarat-syarat.</string>
+<string name="processing1">Permulaan pembelian.</string>
+<string name="processing2">Penyambungan kepada operator telefon bimbit.</string>
+<string name="processing3">Pemprosesan pembayaran.</string>
+
+<string name="payment_success">Anda telah dikenakan bayaran sebanyak %s</string>
+<string name="nonconsumable_already_purchased">Anda telah membeli produk ini</string>
+<string name="payment_success_product">Anda telah dikenakan bayaran sebanyak %s untuk %s</string>
+
+<string name="payment_failed">Kami tidak dapat melengkapkan pembelian ini. Ini mungkin disebabkan kegagalan sambungan ke pengendali sistem bil. Juga, anda mungkin telah melebihi had perbelanjaan anda. Sila cuba lagi sebentar nanti.</string>
+
+<string name="payment_pending">Kami tidak dapat melengkapkan pembelian ini. Ini mungkin disebabkan oleh sambungan rangkaian yang perlahan atau sambungan yang kurang baik ke pengendali sistem bil. Jika kemudiannya anda menerima SMS “pembelian selesai” tetapi item yang dibeli tidak kelihatan di dalam aplikasi, sila hubungi kami di support@fortumo.com</string>
+
+<string name="fetching_fail_no_sim">Pembayaran mudah alih tidak boleh dilakukan tanpa kad SIM.</string>
+<string name="fetching_fail_airplane_mode_enabled">Pembayaran mudah alih tidak disediakan dalam mod Kapalterbang.</string>
+<string name="fetching_fail_no_network">Tiada rangkaian mudah alih, peranti mungkin di luar liputan pengendali.</string>
+
+<string name="accept_and_buy">Terima dan membeli</string>
+<string name="buy">Membeli</string>
+<string name="cancel">Membatalkan</string>
+<string name="accept">Menerima</string>
+</resources>

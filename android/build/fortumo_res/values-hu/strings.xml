@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Igen</string>
+    <string name="info">Info</string>
+	<string name="no">Nem</string>
+	<string name="ok">OK</string>
+	<string name="pay">Kifizeted a %s-t?</string>
+	<string name="pay_vat">Kifizeted a %s-t + ÁFA (%s%%)?</string>
+	<string name="phone_bill">A költség a mobilszámlájádra lesz terhelve.</string>
+	<string name="loading">Kérlek várj…</string>
+	<string name="fetching_fail_generic">Sajnálom a fizetési részletek betöltése nem lehetséges.</string>
+	<string name="fetching_fail_no_data">Adatkapcsoalt szükséges a fizetési részletek betöltéséhez.</string>
+	<string name="fetching_fail_unsupported_country">A Te országodban jelenleg nem elérhető.</string>
+	<string name="fetching_fail_unknown_simop">Sajnáljuk, nem tudjuk beazonosítani a szolgáltatódat.</string>
+	<string name="fetching_fail_unsupported_network">A Te szolgáltatódról jelenleg nem elérhető.</string>
+	<string name="terms_and_conditions">Általános Szerződési Feltételek</string>
+	
+	<string name="processing1">Fizetés elindítása.</string>
+	<string name="processing2">Kapcsolódás a mobil szolgáltatóhoz.</string>
+	<string name="processing3">Fizetés feldolgozása.</string>
+	
+	<string name="payment_success">Önnek ennyi költséget számoltak fel: %s</string>
+	<string name="nonconsumable_already_purchased">Ezt a terméket Ön már megvásárolta.</string>
+	<string name="payment_success_product">Önnek %s %s költséget számoltak fel.</string>
+	<string name="payment_failed">Ez a vásárlás nem teljesíthető. Ezt okozhatta a szolgáltató számlázó rendszerének hibája. Ugyanakkor az is lehetséges, hogy átlépte az elköthető limitjét. Kérjük, próbálja meg újra később.</string>
+	<string name="payment_pending">Ez a vásárlás nem teljesíthető. Ezt okozhatta az internetes kapcsolat lassúsága vagy rossz kapcsolódás a szolgáltató számlázó rendszeréhez. Ha már kapott egy sms-t "teljesített vásárlás" tartalommal, de nem lát megvásárolt termékeket az alkalmazásban, kérjük, lépjen kapcsolatba velünk a support@fortumo.com-on keresztül.</string>
+
+	<string name="fetching_fail_no_sim">Mobilfizetések SIM kártya hiányában nem végezhetőek el.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobilfizetések repülő üzemmódban nem végezhetőek el.</string>
+	<string name="fetching_fail_no_network">Mobil hálózat nem érhető el, a készülék valószínűleg kívül esik a szolgáltató lefedettségi területén.</string>
+		
+	<string name="accept_and_buy">Accept és vásárlás</string>
+	<string name="buy">Megvesz</string>
+	<string name="cancel">Mégse</string>
+	<string name="accept">Elfogadom</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Da</string>
+    <string name="info">Informatii</string>
+	<string name="no">Nu</string>
+	<string name="ok">In Regula</string>
+	<string name="pay">Platesti %s?</string>
+	<string name="pay_vat">Platesti %s +TVA (%s%%)?</string>
+	<string name="phone_bill">Costul va fi perceput pe factura dumneavoastra de telefon mobil.</string>
+	<string name="loading">Asteapta te rog...</string>
+	<string name="fetching_fail_generic">Scuze. Nu s-au putut incarga detaliile platii.</string>
+	<string name="fetching_fail_no_data">Conexiunea de date este necesara pentru a incarga detaliile platii.</string>
+	<string name="fetching_fail_unsupported_country">Tara dumneavoastra este in prezent neacceptata.</string>
+	<string name="fetching_fail_unknown_simop">Scuze. Nu am putut detecta operatorul de telefonie mobila al dumneavoastra.</string>
+	<string name="fetching_fail_unsupported_network">Reteaua dumneavoastra este in prezent neacceptata.</string>
+	<string name="terms_and_conditions">Termeni si conditii</string>
+	
+	<string name="processing1">Initierea cumpararii.</string>
+	<string name="processing2">Conectarea la operatorul de telefonie mobila.</string>
+	<string name="processing3">Procesarea platii.</string>
+	
+	<string name="payment_success">S-au adaugat la factura dvs %s</string>
+	<string name="nonconsumable_already_purchased">Ati cumparat deja acest produs</string>
+	<string name="payment_success_product">S-au adaugat la factura dvs %s pentru cumpararea %s</string>
+	<string name="payment_failed">Tranzactia nu poate fi finalizata. Este posibil sa fi depasit limita dvs de plata sau poate fi din cauza conexiunii la sistemul de facturare al operatorului. Va rugam sa incercati din nou mai tarziu.</string>
+	<string name="payment_pending">Tranzactia nu a fost finalizata. Aceasta poate fi din cauza conexiunii la sistemul de facturare al operatorului. Daca veti primi mesajul "Tranzactie finalizata" dar nu regasiti produsul achizitionat in cadrul aplicatiei, va rugam sa ne contactati la support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Mobile plati nu poate fi facuta fara o cartela sim.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Plata prin mobil nu este posibila daca ati selectat modul "Avion".</string>
+	<string name="fetching_fail_no_network">Retea indisponibilă., probabil sunteţi în afara ariei de acoperire.</string>
+
+	<string name="accept_and_buy">Acceptaţi şi cumpăra</string>
+	<string name="buy">Cumpăra</string>
+	<string name="cancel">Anula</string>
+	<string name="accept">Accepta</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Да</string>
+    <string name="info">Информация</string>
+	<string name="no">Не</string>
+	<string name="ok">OK</string>
+	<string name="pay">Плати %s?</string>
+	<string name="pay_vat">Плати %s +VAT (%s%%)?</string>
+	<string name="phone_bill">Сумата ще бъде такусван към сметката на вашия мобилен телефон.</string>
+	<string name="loading">Моля, изчакайте...</string>
+	<string name="fetching_fail_generic">Съжалявам, не успяхме да заредим данните за плащане.</string>
+	<string name="fetching_fail_no_data">Нужна да е свързаност с интернет, за да се заредят данните за плащането.</string>
+	<string name="fetching_fail_unsupported_country">Вашата държава не се поддържа към текущия момент.</string>
+	<string name="fetching_fail_unknown_simop">Съжаляваме, не успяхме да открием вашия мобилен оператор.</string>
+	<string name="fetching_fail_unsupported_network">Вашата мобилна мрежа не се поддържа към текущия момент.</string>
+	<string name="terms_and_conditions">Правила и условия за ползване</string>
+	
+	<string name="processing1">Започване на покупка.</string>
+	<string name="processing2">Свързване с мобилния оператор.</string>
+	<string name="processing3">Обработка на плащането.</string>
+	<string name="payment_success">Бяхте таксуван %s</string>
+	<string name="nonconsumable_already_purchased">Вече сте закупил този продукт</string>
+	<string name="payment_success_product">Бяхте таксуван %s за %s</string>
+	<string name="payment_failed">Не успяхме да завършим плащането. Това може да е причинено от провалена връзка със системата за таксуване на оператора. Също така, може да сте превишили своя разплащателен лимит. Моля, опитайте отново по-късно.</string>
+	<string name="payment_pending">Не успяхме да завършим покупката. Това може да се дължи на бавна връзка с мрежата или лоша връзка със системата за таксуване на оператора. Ако по-късно получите SMS "покупката завършена", но не видите закупения предмет в приложението, свържете се с нас на support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Мобилни плащания не могат да бъдат извършени без SIM карта.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Мобилни плащания не са възможни в Airplane mode.</string>
+	<string name="fetching_fail_no_network">Мобилната мрежа на е налична, устройвството е извън покритието на оператора.</string>
+	
+	<string name="accept_and_buy">Приеми и купи</string>
+	<string name="buy">Купи</string>
+	<string name="cancel">Откажи</string>
+	<string name="accept">Приеми</string>
+</resources>

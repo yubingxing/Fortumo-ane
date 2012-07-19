@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Tak</string>
+    <string name="info">Informacje</string>
+	<string name="no">Nie</string>
+	<string name="ok">OK</string>
+	<string name="pay">Zapłacić %s?</string>
+	<string name="pay_vat">Zapłacić %s +VAT (%s%%)?</string>
+	<string name="phone_bill">Kosztem zostanie obciążony twój rachunek telefoniczny.</string>
+	<string name="loading">Proszę czekać...</string>
+	<string name="fetching_fail_generic">Niestety nie mogliśmy załadować danych płatności.</string>
+	<string name="fetching_fail_no_data">Potrzebne jest połączenie w trybie danych, aby załadować szczegóły płatności.</string>
+	<string name="fetching_fail_unsupported_country">Twój kraj nie jest aktualnie obsługiwany.</string>
+	<string name="fetching_fail_unknown_simop">Niestety nie mogliśmy rozpoznać twojego operatora.</string>
+	<string name="fetching_fail_unsupported_network">Twoja sieć nie jest obecnie obsługiwana.</string>
+	<string name="terms_and_conditions">Regulamin</string>
+	
+	<string name="processing1">Rozpoczynanie płatności.</string>
+	<string name="processing2">Łączenie z operatorem.</string>
+	<string name="processing3">Przetwarzanie płatności.</string>
+	
+	<string name="payment_success">Opłata %s została pobrana</string>
+	<string name="nonconsumable_already_purchased">Już zakupiłeś(aś) ten produkt.</string>
+	<string name="payment_success_product">Opłata %s za %s została pobrana</string>
+	<string name="payment_failed">Niestety nie mogliśmy zrealizować płatności. Może być to spowodowane brakiem łączności z systemem operatora. Równeż limit wydatków mógł został przekroczony. Prosimy spróbować później.</string>
+	<string name="payment_pending">Niestety nie możemy zrealizować płatności. Może być to spowodowane wolnym lub przerwanym połączeniem z systemem operatora. Jeśli otrzymasz później SMS "płatność zrealizowana", a zakupione przedmioty nie będą widoczne w aplikacji, skontatkuj się z nami pod adresem: support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Płatności mobilne nie mogą być zrealizowane bez karty SIM.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Płatności mobilne są niedostępne w trybie samolotu.</string>
+	<string name="fetching_fail_no_network">Sieć komórkowa jest niedostępna, urządzenie jest prawdopodobnie poza zasięgiem operatora.</string>
+	
+	<string name="accept_and_buy">Zaakceptuj i kupować</string>
+	<string name="buy">Kupować</string>
+	<string name="cancel">Anulować</string>
+	<string name="accept">Przyjąć</string>
+</resources>

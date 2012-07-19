@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Ya</string>
+    <string name="info">Info</string>
+	<string name="no">Tidak</string>
+	<string name="ok">OK</string>
+	<string name="pay">Bayar %s?</string>
+	<string name="pay_vat">Bayar %s +PPN (%s%%)?</string>
+	<string name="phone_bill">Biaya akan dibebankan ke tagihan ponsel Anda.</string>
+	<string name="loading">Silakan tunggu...</string>
+	<string name="fetching_fail_generic">Maaf. Tidak bisa memuat rincian pembayaran.</string>
+	<string name="fetching_fail_no_data">Dibutuhkan koneksi data untuk memuat rincian pembayaran.</string>
+	<string name="fetching_fail_unsupported_country">Negara Anda saat ini belum didukung.</string>
+	<string name="fetching_fail_unknown_simop">Maaf, tidak bisa mendeteksi operator ponsel Anda.</string>
+	<string name="fetching_fail_unsupported_network">Jaringan Anda saat ini belum didukung.</string>
+	<string name="terms_and_conditions">Syarat &amp; Ketentuan</string>
+	
+	<string name="processing1">Memulai pembelian.</string>
+	<string name="processing2">Menghubungkan operator ponsel.</string>
+	<string name="processing3">Memroses pembayaran.</string>
+	
+	<string name="payment_success">Anda telah dibebankan biaya %s.</string>
+	<string name="nonconsumable_already_purchased">Anda telah membeli produk ini.</string>
+	<string name="payment_success_product">Anda telah dibebankan biaya %s untuk %s.</string>
+	<string name="payment_failed">Kami tidak dapat menyelesaikan pembelian tersebut. 
+Hal ini dapat disebabkan konektivitas yang gagal ke sistem penagihan operator. Mungkin juga Anda telah melampaui batas pengeluaran Anda. Mohon coba lagi kemudian.</string>
+	<string name="payment_pending">Kami tidak dapat menyelesaikan pembelian tersebut. Hal ini dapat disebabkan konektivitas yang gagal ke sistem penagihan operator. Bila Anda menerima SMS “pembelian selesai” kemudian tetapi tidak dapat melihat barang yang telah dibeli pada aplikasi, hubungi kami pada support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Pembayaran lewat ponsel tidak dapat dilakukan tanpa kartu SIM.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Pembayaran lewat ponsel tidak tersedia pada mode Pesawat Udara.</string>
+	<string name="fetching_fail_no_network">Jaringan ponsel tidak tersedia, peranti mungkin berada di luar daerah liputan operator.</string>
+
+	<string name="accept_and_buy">Menerima dan membeli</string>
+	<string name="buy">Membeli</string>
+	<string name="cancel">Membatalkan</string>
+	<string name="accept">Menerima</string>
+</resources>

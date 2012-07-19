@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="yes">Ja</string>
+	<string name="info">Info</string>
+	<string name="no">Nej</string>
+	<string name="ok">OK</string>
+	<string name="pay">Betala %s?</string>
+	<string name="pay_vat">Betala %s + moms (%s%%)?</string>
+	<string name="phone_bill">Kostnaden belastas din mobiltelefonräkning.</string>
+	<string name="loading">Vänta...</string>
+	<string name="fetching_fail_generic">Tyvärr. Det gick inte att ladda betalningsinformationen.</string>
+	<string name="fetching_fail_no_data">Dataanslutning krävs för att ladda betalningsinformationen.</string>
+	<string name="fetching_fail_unsupported_country">Ditt land stöds för närvarande inte.</string>
+	<string name="fetching_fail_unknown_simop">Det gick inte att hitta din mobiloperatör.</string>
+	<string name="fetching_fail_unsupported_network">Ditt nätverk stöds för närvarande inte.</string>
+	<string name="terms_and_conditions">Regler och villkor</string>
+
+	<string name="processing1">Initierar köp.</string>
+	<string name="processing2">Ansluter till mobiloperatör.</string>
+	<string name="processing3">Behandlar betalning.</string>
+	
+	<string name="payment_success">Du har debiterats %s</string>
+	<string name="nonconsumable_already_purchased">Du har redan köpt den här varan</string>
+	<string name="payment_success_product">Du har debiterats %s för %s</string>
+
+	<string name="payment_failed">Vi kunde inte slutföra köpet. Orsaken till detta kan vara att det inte går att få kontakt med operatörens faktureringssystem. Du kan också ha gått över din köpgräns. Försök igen senare.</string>
+
+	<string name="payment_pending">Vi kunde inte slutföra köpet. Orsaken till detta kan vara en långsam uppkoppling eller att det inte går att få kontakt med operatörens faktureringssystem. Om du får ett bekräftelse-SMS om en stund men inte kan se de köpta varorna i programmet, kontakta oss på support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Mobila betalningar kan inte göras utan ett SIM-kort.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobilbetalningar går inte att genomföra i flygplansläge.</string>
+	<string name="fetching_fail_no_network">Inget mobilt nätverk tillgängligt, enheten befinner sig förmodligen utanför operatörens täckningsområde.</string>
+
+	<string name="accept_and_buy">Acceptera och köpa</string>
+	<string name="buy">Köp</string>
+	<string name="cancel">Avbryt</string>
+	<string name="accept">Acceptera</string>
+</resources>

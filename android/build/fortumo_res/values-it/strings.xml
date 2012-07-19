@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Si</string>
+    <string name="info">Info</string>
+	<string name="no">No</string>
+	<string name="ok">OK</string>
+	<string name="pay">Paghi %s?</string>
+	<string name="pay_vat">Paghi %s + IVA (%s%%)?</string>
+	<string name="phone_bill">Il costo sarà addebitato sul conto del tuo cellulare.</string>
+	<string name="loading">Per favore attendi...</string>
+	<string name="fetching_fail_generic">Ci dispiace. I dettagli del pagamento non sono stati caricati nel sistema.</string>
+	<string name="fetching_fail_no_data">Per caricare i dettagli sul pagamento è necessaria la connessione dati.</string>
+	<string name="fetching_fail_unsupported_country">Attualmente questo servizio non è disponibile per il tuo paese.</string>
+	<string name="fetching_fail_unknown_simop">Siamo spiacenti, ma il tuo operatore mobile non è stato rilevato.</string>
+	<string name="fetching_fail_unsupported_network">La tua rete attualmente non è supportata.</string>
+	<string name="terms_and_conditions">Condizioni di pagamento</string>
+	
+	<string name="processing1">Inizio dell'acquisto.</string>
+	<string name="processing2">Connessione all'operatore mobile.</string>
+	<string name="processing3">Elaborazione del pagamento.</string>
+	
+	<string name="payment_success">Le sono stati addebitati %s</string>
+	<string name="nonconsumable_already_purchased">Ha già acquistato questo prodotto</string>
+	<string name="payment_success_product">Le sono stati addebitati %s per l'acquisto di %s</string>
+
+	<string name="payment_failed">Non è stato possibile completare la procedura di acquisto. L’errore potrebbe essere stato causato da problemi di connessione al sistema di contabilizzazione dell’operatore, oppure, dal superamento dei limiti di spesa. Si prega di riprovare più tardi.</string>
+
+	<string name="payment_pending">Non è stato possibile completare la procedura di acquisto. L’errore potrebbe essere stato causato dalla connessione di rete troppo lenta o da problemi nella connessione al sistema di contabilizzazione dell’operatore. Se dovesse ricevere un SMS di conferma dell’acquisto, non verifichi gli articoli acquistati dall’applicazione, ma contatti direttamente l’Assistenza clienti via email (support@fortumo.com).</string>
+
+	<string name="fetching_fail_no_sim">I pagamenti con il cellulare non possono essere effettuati senza una SIM card.</string>
+	<string name="fetching_fail_airplane_mode_enabled">I pagamenti tramite cellulare non sono disponibili in modalità aerea.</string>
+	<string name="fetching_fail_no_network">La rete mobile non è disponibile, il dispositivo è fuori dall'area di copertura dell'operatore.</string>
+
+	<string name="accept_and_buy">Accettare e Comprare</string>
+	<string name="buy">Comprare</string>
+	<string name="cancel">Annullare</string>
+	<string name="accept">Accettare</string>
+</resources>

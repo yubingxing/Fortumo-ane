@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">כן</string>
+    <string name="info">מידע</string>
+	<string name="no">לא</string>
+	<string name="ok">OK</string>
+	<string name="pay">האם הינך מסכים לחיוב של %s?</string>
+	<string name="pay_vat">האם הינך מסכים לחיוב של %s +%%%s מע"מ?</string>
+	<string name="phone_bill">החיוב יופיע בחשבון הטלפון הסלולרי שלך.</string>
+	<string name="loading">אנא המתן...</string>
+	<string name="fetching_fail_generic">אנו מתנצלים. לא ניתן להעלות את פרטי התשלום.</string>
+	<string name="fetching_fail_no_data">החיבור לאינטרנט הכרחי על מנת להעלות את פרטי התשלום.</string>
+	<string name="fetching_fail_unsupported_country">כרגע המדינה שלכם לא נתמכת בשירות.</string>
+	<string name="fetching_fail_unknown_simop">עימכם הסליחה, לא ניתן לאתר את המפעיל הסלולרי שלכם.</string>
+	<string name="fetching_fail_unsupported_network">כרגע הרשת שלכם אינה נתמכת בשירות.</string>
+	<string name="terms_and_conditions">תנאי שימוש</string>
+	
+	<string name="processing1">ביצוע הרכישה.</string>
+	<string name="processing2">חיבור למפעיל הסלולרי.</string>
+	<string name="processing3">תהליך חיוב מתבצע.</string>
+	
+	<string name="payment_success">%s אתה הואשמו</string>
+
+<string name="nonconsumable_already_purchased">כבר רכשת את המוצר הזה.</string>
+
+<string name="payment_success_product">%s נגבו מחשבונך עבור %s</string>
+
+<string name="payment_failed">השלמת הרכישה נכשלה. הכשל יכול היה להיגרם עקב קישור לקוי למערכת הגבייה של המפעיל. אפשרות נוספת היא שחרגת ממסגרת האשראי שלך. אנא נסה שוב מאוחר יותר.</string>
+
+<string name="payment_pending">השלמת הרכישה נכשלה. הכשל יכול היה להיגרם עקב חיבור רשת איטי או קישור לקוי למערכת הגבייה של המפעיל. אם תקבל מסרון המכיל את ההודעה "הרכישה הושלמה" במועד מאוחר יותר בעוד המוצרים שנרכשו לא יופיעו במערכת, אנא צור עימנו קשר בsupport@fortumo.com</string>
+
+<string name="fetching_fail_no_sim">לא ניתן לבצע תשלומים דרך המפעיל הסלולרי ללא כרטיס SIM.</string>
+
+<string name="fetching_fail_airplane_mode_enabled">לא ניתן לבצע תשלומים דרך המפעיל הסלולרי כשהמכשיר נמצא במצב טיסה.</string>
+
+<string name="fetching_fail_no_network">נכשלה ההתחברות לרשת הסלולרית, ככל הנראה המכשיר נמצא מחוץ לאיזור הכיסוי של המפעיל.</string>
+<string name="accept_and_buy">לקבל ולקנות</string>
+<string name="buy">לקנות</string>
+<string name="cancel">לבטל</string>
+<string name="accept">לקבל</string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+<string name="yes">Ano</string>
+<string name="info">Info</string>
+<string name="no">Ne</string>
+<string name="ok">OK</string>
+<string name="pay">Zaplatit %s?</string>
+<string name="pay_vat">Zaplatit %s +DPH (%s%%)?</string>
+<string name="phone_bill">Částka se objeví ve vyúčtování od Vašeho mobilního operátora.</string>
+<string name="loading">Čekejte prosím...</string>
+<string name="fetching_fail_generic">Omlouváme se. Nepodařilo se možno načíst detaily platby.</string>
+
+<string name="fetching_fail_no_data">K načtení platebních údajů je třeba datového spojení.</string>
+<string name="fetching_fail_unsupported_country">Vaše země v současnosti není podporována.</string>
+
+<string name="fetching_fail_unknown_simop">Omlouváme se, nepodařilo se zjistit Vašeho mobilního operátora.</string>
+<string name="fetching_fail_unsupported_network">Vaše síť aktuálně není podporována.</string>
+<string name="terms_and_conditions">Podmínky použití</string>
+<string name="processing1">Inicializuji nákup.</string>
+<string name="processing2">Spojuji se s mobilním operátorem.</string>
+<string name="processing3">Zpracovávám platbu.</string>
+
+<string name="payment_success">Bylo vám účtováno %s</string>
+<string name="nonconsumable_already_purchased">Tento produkt jste již zakoupili</string>
+<string name="payment_success_product">Za %2$s Vám již bylo účtováno %1$s </string>
+
+<string name="payment_failed">Nákup se nám nepodařilo dokončit. To může být způsobeno selháním spojení ve fakturačním systému operátora. Také je možné, že jste překročili svůj limit útrat.Zkuste to prosím znovu.</string>
+
+<string name="payment_pending">Nákup se nám nepodařilo dokončit. Může to být způsobeno pomalým připojením sítě nebo špatnou konektivitou na straně fakturačního systému operátora. Pokud později obdržíte SMS "nákup hotov", ale neuvidíte v aplikaci zakoupené zboží, kontaktujte nás na support@fortumo.com</string>
+
+<string name="fetching_fail_no_sim">Platby mobilním telefonem nelze provádět bez SIM karty.</string>
+<string name="fetching_fail_airplane_mode_enabled">V letovém režimu jsou mobilní platby zakázány.</string>
+<string name="fetching_fail_no_network">Mobilní síť je nedostupná, zařízení je pravděpodobně mimo oblast pokrytí operátorem.</string>
+
+<string name="accept_and_buy">Přijmout a koupit</string>
+<string name="buy">Koupit</string>
+<string name="cancel">Zrušit</string>
+<string name="accept">Přijmout</string>
+</resources>

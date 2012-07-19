@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">동의</string>
+    <string name="info">정보</string>
+	<string name="no">아니오</string>
+	<string name="ok">OK</string>
+	<string name="pay">%s를 결제하시겠습니까?</string>
+	<string name="pay_vat">%s와 부가세 %s%%를 결제하시겠습니까?</string>
+	<string name="phone_bill">결제금액은 휴대전화 청구서에 합산 고지됩니다.</string>
+	<string name="loading">잠시만 기다려주십시오…</string>
+	<string name="fetching_fail_generic">결제 정보를 가져올 수 없습니다.</string>
+	<string name="fetching_fail_no_data">결제하기 위해서 인터넷 연결이 필요합니다.</string>
+	<string name="fetching_fail_unsupported_country">현재 서비스가 제공되지 않는 국가입니다.</string>
+	<string name="fetching_fail_unknown_simop">통신사를 찾을 수 없습니다.</string>
+	<string name="fetching_fail_unsupported_network">현재 지원하지 않는 네트워크입니다.</string>
+	<string name="terms_and_conditions">약관</string>
+	
+	<string name="processing1">결제를 시작합니다</string>
+	<string name="processing2">통신사 연결 중입니다.</string>
+	<string name="processing3">결제 중…</string>
+	
+	<string name="payment_success">%s 이 결제 되었습니다.</string>
+	<string name="nonconsumable_already_purchased">이미 구입한 상품입니다.</string>
+	<string name="payment_success_product">%1% 구매에 %0% 이 결제 되었습니다</string>
+	<string name="payment_failed">결제를 할 수 없습니다. 결제 시스템 연결 문제 또는 결제 한도의 초과 일수도 있습니다. 잠시 후 다시 시도해 주시기 바랍니다.</string>
+	<string name="payment_pending">결제를 할 수 없습니다. 네트워크의 연결이 느리거나 결제 시스템 접속 문제일 수도 있습니다. 결제완료 문자는 받았으나 어플리케이션에서 구매한 항목을 찾을 수 없을 경우에는 고객센터support@fortumo.com로 문의하여 주십시오.</string>
+
+	<string name="fetching_fail_no_sim">SIM 카드 없이는 휴대전화전화 결제를 할 수 없습니다..</string>
+	<string name="fetching_fail_airplane_mode_enabled">비행기 모드에서는 휴대전화 결제를 할 수 없습니다.</string>
+	<string name="fetching_fail_no_network">통신사에 연결할 수 없습니다.</string>
+	
+    <string name="accept_and_buy">동의</string>
+	
+	<!-- 
+	Isn't used
+	<string name="cancel">취소</string>
+	-->
+	
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Jah</string>
+    <string name="info">Info</string>
+	<string name="no">Ei</string>
+	<string name="ok">OK</string>
+	<string name="pay">Maksan %s?</string>
+	<string name="pay_vat"> Maksan %s +KM (%s%%)?</string>
+	<string name="phone_bill">Maksumus lisatakse sinu mobiiliarvele.</string>
+	<string name="loading">Palun oota...</string>
+	<string name="fetching_fail_generic">Vabandame. Makse detailide laadimine ebaõnnestus.</string>
+	<string name="fetching_fail_no_data">Makse detailide laadimiseks on vajalik andmeside ühendus.</string>
+	<string name="fetching_fail_unsupported_country">Sinu riiki hetkel ei toetata.</string>
+	<string name="fetching_fail_unknown_simop">Vabandame, sinu mobiilioperaatori kindlaksmääramine ebaõnnestus.</string>
+	<string name="fetching_fail_unsupported_network">Sinu operaatorit hetkel ei toetata.</string>
+	<string name="terms_and_conditions">Kasutustingimused</string>
+	
+	<string name="processing1">Makset alustatakse.</string>
+	<string name="processing2">Ühenduse loomine mobiilioperaatoriga.</string>
+	<string name="processing3">Makse töötlemine.</string>
+	<string name="payment_success">Sinult on ostu eest maha võetud %s.</string>
+	<string name="nonconsumable_already_purchased">Sa oled juba selle toote varem ostnud.</string>
+	<string name="payment_success_product">Sinult on maha arvestanud %s %s eest.</string>
+	<string name="payment_failed">Meil ei õnnestunud Sinu makset lõpetada. Selle võis põhjustada ebaõnnestunud üheduvus mobiilioperaatori maksustamissüsteemiga või siis ületasid Sa oma kulutamislimiiti. Palun proovi hiljem uuesti.</string>
+	<string name="payment_pending">Meil ei õnnestunud Sinu makset lõpetada. Selle võis põhjustada aeglane võrguühendus või ebaõnnestunud ühenduvus mobiilioperaatori maksustamissüsteemiga. Kui Sa saad SMSi "makse teostatud", kuid ei näe oma ostetud tooteid rakenduses, kontakteeru meiega support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Mobiilimakseid ei saa teha ilma SIM kaardita</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobiilimaksed ei tööta Airplane mode-ga.</string>
+	<string name="fetching_fail_no_network">Mobiilivõrk pole saadaval, seade on tõenäoliselt väljaspool leviala.</string>
+
+	<string name="accept_and_buy">Nõustu ja osta</string>
+	<string name="buy">Osta</string>
+	<string name="cancel">Tühista</string>
+	<string name="accept">Nõustu</string>	
+</resources>

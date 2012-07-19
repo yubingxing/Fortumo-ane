@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Yes</string>
+    <string name="info">Info</string>
+	<string name="no">No</string>
+	<string name="ok">OK</string>
+	<string name="pay">Pay %s?</string>
+	<string name="pay_vat">Pay %s +VAT (%s%%)?</string>
+	<string name="phone_bill">The cost will be charged to your mobile phone bill.</string>
+	<string name="loading">Please wait...</string>
+	<string name="fetching_fail_generic">Sorry. Could not load payment details.</string>
+	<string name="fetching_fail_no_data">Data connection is needed to load the payment details.</string>
+	<string name="fetching_fail_unsupported_country">Your country is currently unsupported.</string>
+	<string name="fetching_fail_unknown_simop">Sorry, could not detect your mobile operator.</string>
+	<string name="fetching_fail_unsupported_network">Your network is currently unsupported.</string>
+	<string name="terms_and_conditions">Terms &amp; Conditions</string>
+	
+	<string name="processing1">Initiating purchase.</string>
+	<string name="processing2">Connecting to mobile operator.</string>
+	<string name="processing3">Processing payment.</string>
+	
+	<string name="payment_success">You have been charged %s</string>
+	<string name="nonconsumable_already_purchased">You have already purchased this product</string>
+	<string name="payment_success_product">You have been charged %s for %s</string>
+	<string name="payment_failed">We were unable to complete the purchase. This may be caused by failed connectivity to operator's billing system. Also, you may have exceeded your spend limit. Please try again later.</string>
+	<string name="payment_pending">We were unable to complete the purchase. This may be caused by slow network connection or bad connectivity to operator's billing system. If you receive a "purchase complete" SMS later but do not see purchased items in the application, contact us at support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Mobile payments can not be made without a SIM card.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobile payments are unavailable in Airplane mode.</string>
+	<string name="fetching_fail_no_network">Mobile network is unavailable, device probably out of operator coverage area.</string>
+	
+	<string name="accept_and_buy">Accept &amp; Buy</string>
+	<string name="buy">Buy</string>
+	<string name="cancel">Cancel</string>
+	<string name="accept">Accept</string>
+	
+	<!--  need to translate -->
+	<string name="pay_verizon">Pay %0%?</string>
+	<string name="tax_may_apply">Tax may apply</string>
+	<string name="purchase_history">Purchase history</string>
+	<string name="history_is_empty">Purchase history is empty.</string>
+	<string name="see_purchase_history">See purchase history</string>
+	<string name="verizon_success">%0% was successfully purchased. A Charge of %1% will appear on your phone bill. &lt;br> &lt;br> Purchase ID: %2%&lt;br></string>
+	
+	<!-- Shouldn't be translated -->
+	<string name="getjar_title">Get FREE %s by downloading an app from GetJar:</string>
+	<string name="getjar_success">%s %s have been successfully added!</string>
+	<string name="getjar_fail">Sorry. Could not process GetJar offer.</string>
+	<string name="getjar_fetch_fail">No offers found.</string>
+	<string name="powered_by">Powered by</string>
+	
+</resources>

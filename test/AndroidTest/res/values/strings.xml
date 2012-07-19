@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestActivity!</string>
+    <string name="payButton">pay</string>
+    <string name="app_name">FortumoAndroidSample</string>
+
+</resources>

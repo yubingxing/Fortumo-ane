@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="yes">Evet</string>
+<string name="info">Bilgi</string>
+<string name="no">Hayır</string>
+<string name="ok">OK</string>
+<string name="pay">%s ödeyiniz?</string>
+<string name="pay_vat">%s + KDV (%s%%)?</string>
+
+<string name="phone_bill">Ücretlendirme cep telefonu faturanıza yansıyacaktır.</string>
+<string name="loading">Lütfen bekleyiniz...</string>
+
+<string name="fetching_fail_generic">Üzgünüz. Ödeme detayları yüklenemedi.</string>
+
+<string name="fetching_fail_no_data">Veri bağlantısı ödeme bilgilerinin yüklenmesi için gerekli.</string>
+<string name="fetching_fail_unsupported_country">Bulunduğunuz ülke henüz desteklenmiyor.</string>
+
+<string name="fetching_fail_unknown_simop">Üzgünüz. Mobil operatörünüz belirlenemedi.</string>
+
+<string name="fetching_fail_unsupported_network">Operatörünüz şu anda desteklenmiyor.</string>
+<string name="terms_and_conditions">Şartlar &amp; Koşullar</string>
+<string name="processing1">Satın alma başlıyor.</string>
+<string name="processing2">Mobil operatöre bağlanılıyor.</string>
+<string name="processing3">Ödeme gerçekleşiyor.</string>
+
+<string name="payment_success">%s ödemeniz gerekiyor</string>
+<string name="nonconsumable_already_purchased">Bu ürünü çoktan satın almışsınız</string>
+<string name="payment_success_product">Bu ürün için %2$s %1$s ödemeniz gerekiyor</string>
+
+<string name="payment_failed">Bu satın almayı tamamlayamayacak durumdaydık. Bu, operatörün faturalandırma bağlantısının kesilmesinden oluşmuş olabilir. Aynı zamanda, harcama limitinize ulaşmiş olabilirsiniz. Lütfen tekrar deneyiniz.</string>
+<string name="payment_pending">Bu satın almayı tamamlayamayacak durumdaydık. Bu,yavaş bağlantı hızından ya da operatörün faturalandırma bağlantısının kötü olmasından kaynaklanmış olabilir. Eğer “satın alma tamamlandı” gibi bir kısa mesaj aldıysanız daha sonrasında satın alınanları uygulama içinde göremediyseniz, bize support@fortumo.com’ dan ulaşınız.</string>
+
+<string name="fetching_fail_no_sim"> Mobil ödemeler bir SIM kart olmadan yapılamaz.</string>
+<string name="fetching_fail_airplane_mode_enabled">Mobil ödemeler, Uçuş modunda kullanıma uygun değildir.</string>
+<string name="fetching_fail_no_network">Mobil ağ kullanılamıyor. Cihaz muhtemelen operatörün kapsama alanı dışındadır.</string>
+
+<string name="accept_and_buy">Kabul et ve satın</string>
+<string name="buy">Aatın almak</string>
+<string name="cancel">Iptal</string>
+<string name="accept">Kabul etmek</string>
+</resources>

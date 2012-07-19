@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Kyllä</string>
+    <string name="info">Info</string>
+	<string name="no">Ei</string>
+	<string name="ok">OK</string>
+	<string name="pay">Haluatko maksaa %s?</string>
+	<string name="pay_vat">Haluatko maksaa %s+ALV (%s%%)?</string>
+	<string name="phone_bill">Kulut lisätään matkapuhelinlaskuun.</string>
+	<string name="loading">Odota hetki, ole hyvä...</string>
+	<string name="fetching_fail_generic">Voitu ladata maksutietoja. Pahoittelemme.</string>
+	<string name="fetching_fail_no_data">Tietoyhteys tarvitaan maksun yksityiskohtien lataamiseen.</string>
+	<string name="fetching_fail_unsupported_country">Maasi ei ole nyt osallistumassa.</string>
+	<string name="fetching_fail_unknown_simop">Emme löytäneet operaattoriasi. Pahoittelemme.</string>
+	<string name="fetching_fail_unsupported_network">Verkkoasi ei tällä hetkellä tueta.</string>
+	<string name="terms_and_conditions">Ehdot ja säännöt</string>
+	
+	<string name="processing1">Maksua aloitetaan.</string>
+	<string name="processing2">Otan yhteyttä operaattoriin.</string>
+	<string name="processing3">Maksua menetellään.</string>
+	
+	<string name="payment_success">Sinulta on veloitettu %s</string>
+	<string name="nonconsumable_already_purchased">Olet ostanut jo tämän tuotteen</string>
+	<string name="payment_success_product">Sinulta on veloitettu %s %s</string>
+
+	<string name="payment_failed">Emme voineet suorittaa loppuun ostotapahtumaa. Tämä saattaa johtua yhteyden katkeamisesta operaattorin laskutusjärjestelmään. Tai olet saattanut ylittää käyttörajasi. Yritä uudelleen myöhemmin.</string>
+
+	<string name="payment_pending">Emme voineet suorittaa loppuun ostotapahtumaa. Tämä saattaa johtua hitaasta internet-yhteydestä tai huonosta yhteydestä operaattorin laskutusjärjestelmään. Jos saat "ostostapahtuma suoritettu loppuun" -tekstiviestin, joka ei kuitenkaan sisällä ostamiasi tuotteita, ota meihin yhteyttä osoitteeseen support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim"> Mobiilimaksuja ei voi tehdä ilman SIM-korttia.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobiilimaksut eivät ole käytettävissä Lentokone-moodissa.</string>
+	<string name="fetching_fail_no_network">Mobiiliverkko ei ole käytettävissä, laite on todennäköisesti operaattorin katealueen ulkopuolella.</string>
+	
+	<string name="accept_and_buy">Hyväksyn ja ostan</string>
+	<string name="buy">Maksan ostokseni</string>
+	<string name="cancel">Poistun</string>
+	<string name="accept">Hyväksyn</string>
+</resources>

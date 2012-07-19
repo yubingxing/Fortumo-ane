@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Si</string>
+    <string name="info">Información</string>
+	<string name="no">No</string>
+	<string name="ok">OK</string>
+	<string name="pay">¿Pagar %s?</string>
+	<string name="pay_vat">¿Pagar %s +VAT (%s%%)?</string>
+	<string name="phone_bill">El costo será cargado a la factura de su teléfono móvil.</string>
+	<string name="loading">Por favor, espere...</string>
+	<string name="fetching_fail_generic">Lo Sentimos. No hemos podido cargar los detalles de su pago.</string>
+	<string name="fetching_fail_no_data">Se requiere una conexión de data para cargar los detalles de su pago.</string>
+	<string name="fetching_fail_unsupported_country">Su país no se encuentra incluido en lista actualmente.</string>
+	<string name="fetching_fail_unknown_simop">Lo siente, no pudimos detectar su teléfono móvil.</string>
+	<string name="fetching_fail_unsupported_network">Su red no se encuentra incluida en nuestro soporte actualmente.</string>
+	<string name="terms_and_conditions">Términos y Condiciones.</string>
+	
+	<string name="processing1">Iniciando Compra.</string>
+	<string name="processing2">Conectando con el operador móvil.</string>
+	<string name="processing3">Procesando Pago.</string>
+	
+	<string name="payment_success">Se le han cargado %s</string>
+	<string name="nonconsumable_already_purchased">Usted ya ha comprador este producto</string>
+	<string name="payment_success_product">Se le han cargado %s por %s</string>
+	<string name="payment_failed">No pudimos completar su compra. Esto puede ser causado por fallos en la conectividad con el sistema de facturación del operador. También es posible que haya excedido su límite de consumo. Por favor, intente de nuevo más tarde.</string>
+	<string name="payment_pending">No pudimos completar su compra. Esto pudo ser causado por baja o lenta conectividad con el sistema de facturación del operador. Si usted recibe un mensaje de texto SMS “compra completada” pero no observa los ítems comprados en la aplicación, contáctenos a support@fortumo.com</string>
+
+	<string name="fetching_fail_no_sim">Los pagos móviles no pueden ser realizados sin una tarjeta SIM.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Los pagos móviles no están disponibles en modo Avión.</string>
+	<string name="fetching_fail_no_network">La red móvil no está disponible, el dispositive está probablemente fuera del área de cobertura.</string>	
+
+	<string name="accept_and_buy">Aceptar &amp; Comprar</string>
+	<string name="buy">Comprar</string>
+	<string name="cancel">Cancelar</string>
+	<string name="accept">Aceptar</string>
+</resources>

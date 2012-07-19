@@ -1,0 +1,2 @@
+
+ALTER TABLE messages ADD product_type INTEGER NOT NULL DEFAULT 0;

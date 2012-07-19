@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="yes">Ja</string>
+<string name="info">Info</string>
+<string name="no">Nee</string>
+<string name="ok">Oké</string>
+<string name="pay">Betaal %s?</string>
+<string name="pay_vat">Betaal %s + BTW (%s%%)?</string>
+
+<string name="phone_bill">De kosten zullen worden verrekend op de factuur van uw mobiele telefoon.</string>
+<string name="loading">Wacht....</string>
+
+<string name="fetching_fail_generic">Sorry. Kon betalingsgegevens niet inladen.</string>
+
+<string name="fetching_fail_no_data">Data-aansluiting is nodig om de betalingsgegevens in te laden.</string>
+<string name="fetching_fail_unsupported_country">Uw land wordt op dit moment niet ondersteund.</string>
+
+<string name="fetching_fail_unknown_simop">Sorry, kon uw mobiele provider niet detecteren.</string>
+
+<string name="fetching_fail_unsupported_network">Uw netwerk wordt op dit moment niet ondersteund.</string>
+<string name="terms_and_conditions">Algemene voorwaarden</string>
+<string name="processing1">Aankoop in gang zetten.</string>
+<string name="processing2">Maakt contact met mobiele provider.</string>
+<string name="processing3">Betaling wordt verwerkt.</string>
+
+<string name="payment_success">Er is %s voor u in rekening gebracht</string>
+<string name="nonconsumable_already_purchased">U hebt dit product al gekocht</string>
+<string name="payment_success_product">Er is %s voor u in rekening gebracht voor %s</string>
+
+<string name="payment_failed">Wij konden de aankoop niet afronden. Dit kan veroorzaakt worden door een gebrekkige connectiviteit in het rekeningsysteem van de operateur. Het is eveneens mogelijk dat u uw kredietlimiet overschreden hebt. Probeer het a.u.b. later nog eens.</string>
+
+<string name="payment_pending">Wij konden de aankoop niet afronden. Dit kan veroorzaakt worden door een langzame netwerkverbinding of door een gebrekkige connectiviteit in het rekeningsysteem van de operateur. Als u later een SMS met “aankoop afgerond” ontvangt, maar de gekochte elementen niet in de applicatie aantreft, neem dan contact met ons op via support@fortumo.com</string>
+
+<string name="fetching_fail_no_sim">Betalingen kunnen niet mobiel zonder SIM kaart gedaan worden.</string>
+<string name="fetching_fail_airplane_mode_enabled">Mobiel betalen is niet mogelijk in vliegtuig modus.</string>
+<string name="fetching_fail_no_network">Mobiele netwerk is niet beschikbaar, apparaat waarschijnlijk buiten bereik telefoonnetwerk.</string>
+
+<string name="accept_and_buy">Accepteren en kopen</string>
+<string name="buy">Kopen</string>
+<string name="cancel">Annuleren</string>
+<string name="accept">Accepteren</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="yes">Sim</string>
+	<string name="info">Informação</string>
+	<string name="no">Não</string>
+	<string name="ok">OK</string>
+	<string name="pay">Pagar %s?</string>
+	<string name="pay_vat">Pagar %s +IVA (%s%%)?</string>
+	<string name="phone_bill">O custo será cobrado na sua conta de telemóvel.</string>
+	<string name="loading">Por favor, aguarde....</string>
+	<string name="fetching_fail_generic">Desculpe. Não foi possível carregar os dados do pagamento..</string>
+	
+	<string name="fetching_fail_no_data">A ligação de dados é necessária para carregar os dados de pagamento.</string>
+	<string name="fetching_fail_unsupported_country">De momento, o seu país não é suportado.</string>
+	
+	<string name="fetching_fail_unknown_simop">Desculpe, não foi possível detetar a sua operadora móvel.</string>
+	<string name="fetching_fail_unsupported_network">De momento, a sua rede não é suportada.</string>
+	<string name="terms_and_conditions">Termos e Condições</string>
+	<string name="processing1">A iniciar a compra.</string>
+	<string name="processing2">A ligar à operadora móvel.</string>
+	<string name="processing3">A processar o pagamento.</string>
+	
+	<string name="payment_success">Foram-lhe cobrados %s</string>
+	<string name="nonconsumable_already_purchased">Já comprou este produto</string>
+	<string name="payment_success_product">Foram-lhe cobrados %s pelo %s</string>
+	<string name="payment_failed">Não foi possível concluir a compra. Isto pode ser causado por falha de conectividade com o sistema de cobrança do operador. Além disso, pode ter excedido o limite de gasto. Por favor, tente novamente mais tarde.</string>
+	
+	<string name="payment_pending">Não foi possível concluir a compra. Isto pode ser causado por uma ligação de rede lenta ou má conectividade com o sistema de cobrança do operador. Se mais tarde receber um SMS de "compra completa", mas não ver os artigos comprados na aplicação, contacte-nos em support@fortumo.com</string>
+	<string name="fetching_fail_no_sim">Pagamentos móveis não podem ser feitas sem um cartão SIM. </string>
+	<string name="fetching_fail_airplane_mode_enabled">Os pagamentos móveis não estão disponíveis no modo Voo.</string>
+	<string name="fetching_fail_no_network">A rede móvel não está disponível, provavelmente o dispositivo encontra-se fora da área de cobertura da operadora.</string>
+
+	<string name="accept_and_buy">Aceitar e comprar</string>
+	<string name="buy">Comprar</string>
+	<string name="cancel">Cancelar</string>
+	<string name="accept">Aceitar</string>
+</resources>

@@ -1,0 +1,1 @@
+ALTER TABLE messages ADD request_id VARCHAR(128) DEFAULT NULL;

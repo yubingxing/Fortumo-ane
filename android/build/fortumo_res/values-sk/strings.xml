@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Áno</string>
+    <string name="info">Info</string>
+	<string name="no">Nie</string>
+	<string name="ok">OK</string>
+	<string name="pay">Platba %s?</string>
+	<string name="pay_vat">Platba %s +DPH (%s%%)?</string>
+	<string name="phone_bill">Cena bude prirátaná na váš účet za mobilný telefón.</string>
+	<string name="loading">Prosím čakajte …</string>
+	<string name="fetching_fail_generic">Prepáčte. Nemožno načítať údaje o platbe.</string>
+	<string name="fetching_fail_no_data">Pre pripojenie je potrebné zadať údaje  o platbe.</string>
+	<string name="fetching_fail_unsupported_country">Vaša krajina NIE je momentálne podporovaná.</string>
+	<string name="fetching_fail_unknown_simop">Ospravedlňujeme sa, ale nevieme identifikovať vášho operátora.</string>
+	<string name="fetching_fail_unsupported_network">Vaša sieť nie je momentálne podporovaná.</string>
+	<string name="terms_and_conditions">Všeobecné obchodné podmienky</string>
+	
+
+	<string name="processing1">Začatie predaja.</string>
+	<string name="processing2">Pripájanie k mobilnému operátorovi.</string>
+	<string name="processing3">Spracovávanie platby.</string>
+	
+	<string name="payment_success">Boli vám naúčtované %s.</string>
+	<string name="nonconsumable_already_purchased">Tento produkt ste si už zakúpili.</string>
+	<string name="payment_success_product">Boli vám naúčtované %s za %s.</string>
+	<string name="payment_failed">Nepodarilo sa nám uskutočniť tento nákup.
+ Môže to byť spôsobené zlyhaním spojenia s fakturačným systémom sprostredkovateľa. Taktiež sa mohlo stať, že ste prekročili váš limit. Prosím skúste to znovu neskôr.</string>
+	<string name="payment_pending">Nepodarilo sa nám uskutočniť tento nákup.
+Môže to byť spôsobené pomalým sieťovým pripojením, alebo zlou spojiteľnosťou na fakturačný systém sprostredkovateľa. Ak neskôr obdržíte SMS s textom "nákup uskutočnený", ale v aplikácii nevidíte zakúpené predmety, kontaktujte nás na adrese support@fortumo.com</string>
+	<string name="fetching_fail_no_sim">Mobilné platby nemôžu byť uskutočnené bez SIM karty.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobilné platby sú nedostupné v lietadlovom móde.</string>
+	<string name="fetching_fail_no_network">Mobilná sieť je nedostupná, zariadenie je zrejme mimo pokrytie poskytovateľa.</string>
+<string name="accept_and_buy">Prijať a kúpiť</string>
+	<string name="buy">Kúpiť</string>
+	<string name="cancel">Zrušiť</string>
+	<string name="accept">Prijať</string>
+</resources>

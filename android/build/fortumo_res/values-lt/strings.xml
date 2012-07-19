@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Taip</string>
+    <string name="info">Informacija</string>
+	<string name="no">Ne</string>
+	<string name="ok">Gerai</string>
+	<string name="pay">Mokėti %s?</string>
+	<string name="pay_vat">Mokėti %s + PVM (%s%%)?</string>
+	<string name="phone_bill">Išlaidos atsispindės jūsų mobiliojo ryšio sąskaitoje.</string>
+	<string name="loading">Prašau palaukti...</string>
+	<string name="fetching_fail_generic">Apgailestaujame, nepavyko gauti apmokėjimo informacijos.</string>
+	<string name="fetching_fail_no_data">Norint gauti apmokėjimo informaciją, turi veikti duomenų perdavimo paslauga.</string>
+	<string name="fetching_fail_unsupported_country">Šiuo metu jūsų šalyje paslauga neteikiama.</string>
+	<string name="fetching_fail_unknown_simop">Apgailestaujame, bet nepavyko identifikuoti jūsų mobiliojo ryšio operatoriaus.</string>
+	<string name="fetching_fail_unsupported_network">Jūsų naudojamame mobiliojo ryšio tinkle paslauga šiuo metu neteikiama.</string>
+	<string name="terms_and_conditions">Terminai ir sąlygos</string>
+	
+	<string name="processing1">Ruošiamasi apmokėjimui.</string>
+	<string name="processing2">Jungiamasi prie jūsų mobiliojo ryšio operatoriaus.</string>
+	<string name="processing3">Mokėjimas apdorojamas.</string>	
+	<string name="payment_success">Iš Jūsų sąskaitos buvo išskaičiuoti %s.</string> 
+	<string name="nonconsumable_already_purchased">Jūs jau įsigijote šį produktą. </string>
+	<string name="payment_success_product">Iš Jūsų sąskaitos buvo išskaičiuoti %s už %s </string>
+	<string name="payment_failed">Negalėjome užbaigti šio pirkimo sandėrio. Mums nepavyko prisijungti prie operatoriaus atsiskaitymo sistemos. Arba viršijote savo išlaidų limitą. Prašome pabandyti dar kartą vėliau.</string>
+	<string name="payment_pending">Negalėjome užbaigti šio pirkimo sandėrio. Tai gali būti dėl lėto tinklo ryšio ar netinkamo prisijungimo prie operatoriaus atsiskaitymo sistemos.
+Jei vėliau gausite „pirkimo sandėris užbaigtas“ pranešimą SMS žinute, bet taikomojoje programoje nematysite įsigytų prekių, kreipkitės į mus el. pašto adresu: support@fortumo.com</string>
+	<string name="fetching_fail_no_sim">Mobiliųjų mokėjimų negalima atlikti be SIM kortelės.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobilieji mokėjimai neprieinami aviaciniu režimu.</string>
+	<string name="fetching_fail_no_network">Mobilusis tinklas neprieinamas, įrenginys nepatenka į operatoriaus aprėpties zoną.</string>
+
+	<string name="accept_and_buy">Priimti ir pirkti</string>
+	<string name="buy">įsigyti</string>
+	<string name="cancel">Atšaukti</string>
+	<string name="accept">Priimti</string>
+</resources>

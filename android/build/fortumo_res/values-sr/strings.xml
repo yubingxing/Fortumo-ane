@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Da</string>
+    <string name="info">Info</string>
+	<string name="no">Ne</string>
+	<string name="ok">OK</string>
+	<string name="pay">Plati %s?</string>
+	<string name="pay_vat">Plati %s +PDV (%s%%)?</string>
+	<string name="phone_bill">Troškovi će biti uračunati u vaš telefonski račun.</string>
+	<string name="loading">Molimo sačekajte...</string>
+	<string name="fetching_fail_generic">Žao nam je. Neuspešno učitavanje detalja plaćanja.</string>
+	<string name="fetching_fail_no_data">Potrebna je konekcija sa podacima kako bi se učitali detalji uplate.</string>
+	<string name="fetching_fail_unsupported_country">Vaša zemlja trenutno ne podržava ovu aplikaciju.</string>
+	<string name="fetching_fail_unknown_simop">Žao nam je, nije pronadjen vaš mobilni operater.</string>
+	<string name="fetching_fail_unsupported_network">Vaša mreža trenutno nije podržana.</string>
+	<string name="terms_and_conditions">Uslovi korišćenja</string>
+	
+	<string name="processing1">Iniciranje kupovine.</string>
+	<string name="processing2">Povezivanje sa mobilnim operaterom.</string>
+	<string name="processing3">Obrađivanje uplate.</string>
+	
+	<string name="payment_success">Naplaćeno vam je %s.</string>
+	<string name="nonconsumable_already_purchased">Već ste kupili ovaj proizvod.</string>
+	<string name="payment_success_product">Naplaćeno vam je %s za %s</string>
+	<string name="payment_failed">Nismo bili u mogućnosti da završimo kupovinu. Ovo može biti izazvano neuspelim povezivanjem na operaterov sistem naplaćivanja. Osim toga, možda ste premašili svoj potrošački limit. Pokušajte kasnije ponovo.</string>
+	<string name="payment_pending">Nismo u mogućnosti da završimo kupovinu. Ovo je prouzrokovano sporom mrežnom vezom ili lošom povezanošću sa operaterovim sistemom naplaćivanja. Ako kasnije primite SMS sadržine „kupovina uspela“ ali ne vidite kupljene stavke u aplikaciji, kontaktirajte nas na support@fortumo.com.</string>
+	<string name="fetching_fail_no_sim">Mobilne uplate se ne mogu izvršiti bez SIM kartice.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobilne uplate nisu moguće u avionskom režimu.</string>
+	<string name="fetching_fail_no_network">Mobilna mreža je nedostupna, uređaj je verovatno izvan mrežne pokrivenosti.</string>
+	<string name="accept_and_buy">Прихвати и купити</string>
+	<string name="buy">Kупити</string>
+	<string name="cancel">Oтказати</string>
+	<string name="accept">Прихватити</string>
+</resources>

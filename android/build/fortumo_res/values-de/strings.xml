@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Ja</string>
+    <string name="info">Info</string>
+	<string name="no">Nein</string>
+	<string name="ok">OK</string>
+	<string name="pay">Zahle %s?</string>
+	<string name="pay_vat">Zahle %s + MwSt. (%s%%)?</string>
+	<string name="phone_bill">Die Kosten werden mit Ihrer Handyrechnung verrechnet.</string>
+	<string name="loading">Bitte warten...</string>
+	<string name="fetching_fail_generic">Entschuldigung. Zahlungsinformationen konnten nicht geladen werden.</string>
+	<string name="fetching_fail_no_data">Eine Datenverbindung ist notwendig, um die Zahlungsinformationen zu laden.</string>
+	<string name="fetching_fail_unsupported_country">Ihr Land wird derzeit nicht unterstützt.</string>
+	<string name="fetching_fail_unknown_simop">Entschuldigung, Ihr Netzbetreiber konnte nicht gefunden werden.</string>
+	<string name="fetching_fail_unsupported_network">Ihr Netzwerk wird derzeit nicht unterstützt.</string>
+	<string name="terms_and_conditions">Allgemeine Geschäftsbedingungen</string>
+	
+	<string name="processing1">Kauf wird eingeleitet.</string>
+	<string name="processing2">Verbinde mit Netzbetreiber.</string>
+	<string name="processing3">Zahlung wird bearbeitet.</string>
+	
+	<string name="payment_success">Ihnen wurden %s berechnet</string>
+	<string name="nonconsumable_already_purchased">Sie haben dieses Produkt bereits gekauft</string>
+	<string name="payment_success_product">Ihnen wurden %s für %s berechnet</string>
+
+	<string name="payment_failed">Wir können diesen Kauf nicht abschließen. Das kann an einer fehlerhaften Verbindung zum Zahlungssystem des Anbieters liegen. Es kann auch daran liegen, dass Sie Ihren Verfügungsrahmen überschritten haben. Bitte versuchen Sie es später nochmal.</string>
+	<string name="payment_pending">Wir können diesen Kauf nicht abschließen. Das kann an einer langsamen Netzwerkverbindung oder einer schlechten Verbindung zum Zahlungssystem des Anbieters liegen. Falls Sie später eine SMS mit dem Text "Kauf abgeschlossen" erhalten, aber die gekauften Artikel in der Anwendung nicht sehen können, senden Sie uns bitte eine E-Mail an support@fortumo.com</string>
+	
+	<string name="fetching_fail_no_sim">Handyzahlungen können nicht ohne SIM Karte durchgeführt werden.</string>
+	<string name="fetching_fail_airplane_mode_enabled">Mobile Bezahlungen sind im Flugmodus nicht verfügbar.</string>
+	<string name="fetching_fail_no_network">Mobilfunk unverfügbar, das Gerät ist wahrscheinlich außerhalb vom Empfangsbereich.</string>
+
+	<string name="accept_and_buy">Annehmen und kaufen</string>
+	<string name="buy">Kaufen</string>
+	<string name="cancel">Abbrechen</string>
+	<string name="accept">Annehmen</string>
+</resources>

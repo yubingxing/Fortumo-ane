@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">ใช่</string>
+    <string name="info">ข้อมูล</string>
+	<string name="no">ไม่</string>
+	<string name="ok">ตกลง</string>
+	<string name="pay">จ่าย %s หรือไม่?</string>
+	<string name="pay_vat">จ่าย %s +VAT (%s%%) หรือไม่?</string>
+	<string name="phone_bill">ค่าใช้จ่ายจะเพิ่มเข้าบิลโทรศัพท์มือถือของคุณ</string>
+	<string name="loading">โปรดรอ...</string>
+	<string name="fetching_fail_generic">ขออภัย ไม่สามารถโหลดรายละเอียดการจ่ายเงินได้</string>
+	<string name="fetching_fail_no_data">ต้องมีการเชื่อมโยงข้อมูลจึงจะสามารถโหลดรายละเอียดการจ่ายเงินได้</string>
+	<string name="fetching_fail_unsupported_country">ปัจจุบัน ยังไม่ได้เปิดใช้บริการในประเทศของคุณ</string>
+	<string name="fetching_fail_unknown_simop">ขออภัย ไม่สามารถค้นหาผู้ให้บริการโทรศัพท์มือถือของคุณได้</string>
+	<string name="fetching_fail_unsupported_network">เครือข่ายของคุณไม่สามารถใช้ร่วมกับระบบได้ในขณะนี้</string>
+	<string name="terms_and_conditions">ข้อกำหนดและเงื่อนไข</string>
+	
+	<string name="processing1">กำลังเริ่มต้นการซื้อ</string>
+	<string name="processing2">กำลังเชื่อมต่อเข้ากับผู้ให้บริการโทรศัพท์มือถือ</string>
+	<string name="processing3">กำลังดำเนินการจ่ายเงิน</string>
+	
+	<string name="payment_success">ได้มีการเรียกเก็บเงินจากคุณจำนวน %s.</string>
+<string name="nonconsumable_already_purchased">คุณซื้อผลิตภัณฑ์นี้แล้ว</string>
+<string name="payment_success_product">ได้มีการเรียกเก็บเงินจากคุณจำนวน %s สำหรับ %s</string>
+<string name="payment_failed">เราไม่สามารถทำธุรกรรมการซื้อให้สำเร็จลุล่วงได้  นั่นอาจเป็นเพราะการเชื่อมต่อเข้าระบบการชำระเงินของผู้ให้บริการไม่เป็นผล สำเร็จ หรือคุณอาจใช้เงินเกินขีดจำกัด กรุณาลองใหม่อีกครั้งในภายหลัง</string>
+<string name="payment_pending">เราไม่สามารถทำให้ธุรกรรมการซื้อสำเร็จลุล่วงได้ นั่นอาจเป็นเพราะการเชื่อมต่อเข้าเครือข่ายเป็นไปอย่างเชื่องช้า หรือการเชื่อมต่อเข้าระบบการชำระเงินของผู้ให้บริการไม่ดี หากคุณได้รับ SMS “ธุรกรรมการซื้อสำเร็จเรียบร้อย” แต่ยังไม่เห็นรายการที่สั่งซื้อในโปรแกรม โปรดติอต่อเราที่ support@fortumo.com</string>
+
+<string name="fetching_fail_no_sim">การชำระเงินทางโทรศัพท์มือถือไม่สามารถทำได้หากไม่มีบัตร SIM</string>
+<string name="fetching_fail_airplane_mode_enabled">การชำระเงินไม่สามารถกระทำได้ในทางเลือกการใช้งานแบบเครื่องบิน</string>
+<string name="fetching_fail_no_network">ไม่มีเครือข่ายโทรศัพท์มือถือ อุปกรณ์สื่อสารอาจอยู่นอกเครือข่ายครอบคลุม</string>
+
+<string name="accept_and_buy">ยอมรับและซื้อ</string>
+	<string name="buy">ซื้อ</string>
+	<string name="cancel">ยกเลิก</string>
+	<string name="accept">ยอมรับ</string>
+</resources>

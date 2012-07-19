@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">是</string>
+    <string name="info">资讯</string>
+	<string name="no">否</string>
+	<string name="ok">OK</string>
+	<string name="pay">付%s？</string>
+	<string name="pay_vat">付%s ＋增值税（%s%%）？</string>
+	<string name="phone_bill">资费将从您的手机帐单中扣除。</string>
+	<string name="loading">请稍等…</string>
+	<string name="fetching_fail_generic">抱歉，无法重整付费明细。</string>
+	<string name="fetching_fail_no_data">付费明细的重整需要数据连接。</string>
+	<string name="fetching_fail_unsupported_country">目前暂不支援您所选择的国家。</string>
+	<string name="fetching_fail_unknown_simop">抱歉，无法侦测到您的移动商。</string>
+	<string name="fetching_fail_unsupported_network">暂不支援您所在网络。</string>
+	<string name="terms_and_conditions">服务条款</string>
+	<string name="processing1">付费初始化</string>
+	<string name="processing2">连结至移动商</string>
+	<string name="processing3">付费进行中</string>
+	
+	<string name="payment_success">您已消费%s</string>
+	<string name="nonconsumable_already_purchased">您已经购买该产品</string>
+	<string name="payment_success_product">您已为%2$s付费%1$s</string>
+	<string name="payment_failed">我们无法完成该笔交易。 这可能是因未成功连接至移动商的计费系统所导致 另外，您可能已经超出您的支出限额。 请稍候再试。</string>
+	<string name="payment_pending">我们无法完成该笔交易。 这可能是因网路连结过慢或是未成功连接至移动商的计费系统所导致。 如果您收到一则「交易成功」的短信却无法在该应用程序里看见此交易产品，请连络我们的客户支持support@fortumo.com</string>
+	
+	<string name="fetching_fail_no_sim">须有SIM卡才能进行手机付费</string>
+	<string name="fetching_fail_airplane_mode_enabled">手機付費適用於飛行模式。</string>
+	<string name="fetching_fail_no_network">電信網絡不適用，設備可能超出電信公司的覆蓋範圍。</string>
+	
+	<string name="accept_and_buy">接受并购买</string>
+	<string name="buy">购买</string>
+	<string name="cancel">取消</string>
+	<string name="accept">接受</string>
+</resources>

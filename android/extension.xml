@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/3.2">
+	<id>com.ice.fortumo</id>    
+    <versionNumber>1</versionNumber>
+    <platforms>
+        <platform name="Android-ARM">
+            <applicationDeployment>
+                <nativeLibrary>fortumo.jar</nativeLibrary>
+                <initializer>com.ice.admob.AdMobExtension</initializer>
+                <finalizer>com.ice.admob.AdMobExtension</finalizer>
+            </applicationDeployment>
+        </platform>
+    </platforms>
+</extension>
